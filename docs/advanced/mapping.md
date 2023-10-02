@@ -41,6 +41,9 @@ In the below example (formatted multiple ways), we remap a strip of four LEDs fr
 
 This is another example that switches direction every 5 LEDs.
 It could be formatted any of the three ways demonstrated above.
+
+### Apply
+Once you have saved your `ledmap.json` file, reboot your system at the bottom of the Info page.
   
 ```json
 {"map":[0, 1, 2, 3, 4, 9, 8, 7, 6, 5, 10, 11, 12, 13, 14,
